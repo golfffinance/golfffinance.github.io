@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+</head>
+<body>
+
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+ 
+      // 加载 _navbar.md
+      loadNavbar: true,
+      //侧边栏
+      loadSidebar: true,
+      subMaxLevel: 2,
+      //目录层级
+      maxLevel: 4,
+      //侧边栏logo
+      logo: '/images/logo.png',
+      //侧边栏标题
+      name: 'Golff Documentation',
+      //主题色
+      themeColor: '#6aac8c',
+      // default: '_blank'，新标签页打开外部链接
+      externalLinkTarget: '_blank', 
+      //search
+      search: 'auto', // 默认值
+      //封面
+      coverpage: true,
+      coverpage: ['/', '/zh-cn/'], //多封面
+
+      //顶部空间
+      //topMargin: 90, // default: 0
+
+      //语言列表对应匹配
+      fallbackLanguages: ['zh-ch'],
+
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script> 
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+</body>
+</html>
