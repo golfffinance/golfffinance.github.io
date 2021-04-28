@@ -1,4 +1,4 @@
-# Golff Vault-机枪池使用手册
+# Golff Vault
 
 ## 什么是Golff Vault
 Golff Vault就是一个智能化的收益聚合器(Earn Collection), 基于自动实现最佳收益策略配置的DeFi协议。它能够帮助投资人一键获取市场最优收益，从而在大大降低普通投资者进入门槛的同时，能减少因信息不对称而导致的收益损失。
