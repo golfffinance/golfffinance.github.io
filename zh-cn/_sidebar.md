@@ -19,6 +19,10 @@
 	* [关于Golff Farm矿池](zh-cn/aboutFarm)
 	* [GOF流动性挖矿教程](zh-cn/GOFFarm)
 
+* Golff DAO治理
+	* [社区治理提案流程](zh-cn/Vote)
+	* [DAO治理框架](zh-cn/GDAO)
+
 * 各公链操作手册
 	* [Heco相关操作指南](zh-cn/Heco)
 	* [BSC相关操作指南](zh-cn/BSC)	

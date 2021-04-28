@@ -19,6 +19,10 @@
 	* [About Golff Farm](aboutFarm)
 	* [Mining Tutorial](GOFFarm)
 
+* Golff DAO
+	* [Community Governance](Vote)
+	* [DAO Framework](GDAO)
+
 * Public Chain Operation Manual
 	* [Heco Tutorial](Heco)
 	* [BSC Tutorial](BSC)	
