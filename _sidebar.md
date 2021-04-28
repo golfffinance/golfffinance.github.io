@@ -8,6 +8,7 @@
 	* [Vault V1使用手册](VaultV1)
 	* [Vault V2使用手册](VaultV2)
 	* [Heco Vault使用手册](HecoVault)
+	* [BSC Vault使用手册](BSCVault)
 	* [FAQ常见问题](VaultFAQ)
 
 * Golff Lend借贷

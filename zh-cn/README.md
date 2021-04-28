@@ -20,10 +20,13 @@ Golff 定位于一站式加密银行，产品形态主要为DeFi聚合器平台�
 ```
 0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c
 ```
-
 **GOF(HECO):**
 ```
 0x2aafe3c9118db36a20dd4a942b6ff3e78981dce1
+```
+**GOF(BEP20-BSC):** 
+```
+0x2bcF9c1861FaE2d5a7D2b3242b71e2a8d461F61e
 ```
 **GDAO(ERC20):**
 ```
@@ -33,6 +36,7 @@ Golff 定位于一站式加密银行，产品形态主要为DeFi聚合器平台�
 ```
 0xE83413f3c41243c4f0CcdB50e951E4af13D8227C
 ```
+
 
 ## 社区
 - Telegram：https://t.me/GolffProtocol
