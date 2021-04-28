@@ -4,7 +4,7 @@
 
 BSC Golff Vault是一个基于币安智能链的智能化收益聚合器(Earn Collection), 是基于自动实现最佳收益策略配置的DeFi协议。它能为投资人一键获取BSC链上最优收益，从而在大大降低普通投资者进入门槛的同时，能减少因信息不对称而导致的收益损失。
 
-![image](images/BSCVault/1.jpeg)
+![image](images/BSCVault/1.jpg)
 
 ## BSC Golff Vault有哪些优点
 1. 免去流动性挖矿复杂的合约操作环节，BSC版本的Golff Vault可以帮助用户节省更多合约操作手续费，用户只需充值资产给Gollf Vault BSC版智能合约作为代理，一键充值/提现，就能获得市场上最佳收益；
