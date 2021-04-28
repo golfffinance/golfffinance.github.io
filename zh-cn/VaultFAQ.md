@@ -1,18 +1,18 @@
 # Golff Vault FAQ常见问题
 
-## 什么是G-HecoToken
+## 什么是G-Token
 
-G-HecoToken相对Heco版Golff Vault 同等于G-V2Token相对以太版Golff Vault V2，是Golff Vault的权益Token。
+G-Token是Golff Vault的权益Token，对应不同版本Vault会有不同的G-Token，包括以太上的GToken，G-V2Token，Heco上的G-HecoToken，Bsc上的G-Token。
 
-## 为什么在机枪池存入1 USDT，得不到1 G-HecoUSDT？
+## 为什么在机枪池存入1 USDT，得不到1 G-USDT？
 
-由于Golff机枪池采用的是本金无损策略，目标矿池的收益会由合约自动兑换成本币Token，因持续的收益放入池内，而G-HecoToken的数量不变，用户可凭借G-HecoToken可兑换的Token数量越多。所以Token和G-HecoToken的兑换率并非1:1关系，G-HecoToken是抵押份额权证，每一个G-HecoToken拥有单位净值。
+由于Golff机枪池采用的是本金无损策略，目标矿池的收益会由合约自动兑换成本币Token，因持续的收益放入池内，而G-Token的数量不变，用户可凭借G-Token可兑换的Token数量越多。所以Token和G-Token的兑换率并非1:1关系，G-Token是抵押份额权证，每一个G-Token拥有单位净值。
 ```
-单位净值计算公式：单位净值=当前资金池累计Token数量/累计发行G-HecoToken数量
+单位净值计算公式：单位净值=当前资金池累计Token数量/累计发行G-Token数量
 ```
-当每次收益获取后，单位净值会发生更新。G-HecoUSDT的单位净值为1.1，则您存入10000USDT可以得到：
+当每次收益获取后，单位净值会发生更新。G-USDT的单位净值为1.1，则您存入10000USDT可以得到：
 ```
-10000 USDT/ 1.1 = 9090.9 G-HecoUSDT
+10000 USDT/ 1.1 = 9090.9 G-USDT
 ```
 
 ## 自动复投及复利机制
