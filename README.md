@@ -1,6 +1,6 @@
 # Golff
 
-> **DeFi Aggregator，committing to creating a light, open and free financial world!**
+> **DeFi Aggregator, committing to creating a light, open and free financial world!**
 
 Golff is postioned as a one-stop services encrypted bank, committing to creating a light, open and free financial world where everyone can participate. At this time, we are standing at the starting point of the DeFi explosion, facing the vast future of the DeFi world.
 
