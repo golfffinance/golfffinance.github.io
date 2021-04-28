@@ -21,5 +21,6 @@
 
 * 各公链操作手册
 	* [Heco相关操作指南](zh-cn/Heco)
+	* [BSC相关操作指南](zh-cn/BSC)	
 
 * FAQ常见问题
