@@ -1,20 +1,22 @@
 # Golff
 
-> **DeFi聚合器，致力于打造轻量、开放、自由的金融世界！**
+> **DeFi Aggregator，committing to creating a light, open and free financial world!**
 
-Golff 定位于一站式加密银行，产品形态主要为DeFi聚合器平台，致力于创造一个轻量、开放、自由的金融世界。目前BitKeep、imToken、Tokenpcoket等多个钱包已支持Golff全生态产品。Golff核心生态代币GOF已上线火币、Gate.io、LongBit、抹茶等20多家主流交易所。
-
-
-## 网址
-
-- 官网：https://golff.finance
-
-- 产品（以太）：https://app.golff.finance
-
-- 产品（Heco）：https://heco.golff.finance
+Golff is postioned as a one-stop services encrypted bank, committing to creating a light, open and free financial world where everyone can participate. At this time, we are standing at the starting point of the DeFi explosion, facing the vast future of the DeFi world.
 
 
-## 代币合约地址
+## Golff Officaial Website
+
+- Official Website: https://golff.finance
+
+- Product(Ethereum): https://app.golff.finance
+
+- Product(Heco): https://heco.golff.finance
+
+- Product(BSC): https://bsc.golff.finance
+
+
+## Token Contract Address
 
 **GOF(ERC20):** 
 ```
@@ -37,12 +39,12 @@ Golff 定位于一站式加密银行，产品形态主要为DeFi聚合器平台�
 0xE83413f3c41243c4f0CcdB50e951E4af13D8227C
 ```
 
-## 社区
+## Official Community
 - Telegram：https://t.me/GolffProtocol
 - Twitter：https://twitter.com/GolffProtocol
 - Discord：https://discord.gg/ySbD6Ck
 - Medium：https://medium.com/@GolffProtocol
 - Reddit：https://www.reddit.com/user/GolffProtocol
 - Github：https://github.com/golfffinance/
-- 微博：https://weibo.com/GolffProtocol
-- 微信：GolffHelp（微信号）
+- Weibo：https://weibo.com/GolffProtocol
+- Wechat：GolffHelp（微信号）

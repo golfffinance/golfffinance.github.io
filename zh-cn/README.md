@@ -13,6 +13,8 @@ Golff 定位于一站式加密银行，产品形态主要为DeFi聚合器平台�
 
 - 产品（Heco）：https://heco.golff.finance
 
+- 产品（BSC）：https://bsc.golff.finance
+
 
 ## 代币合约地址
 
