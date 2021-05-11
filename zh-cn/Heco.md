@@ -133,3 +133,21 @@ Heco USDT 合约地址：
 ![image](images/Heco/19.png)
 
 质押成功后，可刷新页面，即可看到LP Token已经被成功抵押。您可以随时取消抵押、提取奖励。
+
+## Channels质押GOF挖CAN教程
+
+开始挖矿前请确认您的钱包在Heco环境下，并确保地址中存有足额的HT作为手续费
+[《MetaMask钱包配置HECO教程》](/zh-cn/heco?id=metamask钱包配置heco教程)
+
+1. 将GOF转到配置了Heco网络的钱包中
+
+2. 访问 [Channels 官网](https://channels.finance/)，并授权钱包，进入“质押”区
+![image](images/Heco/20.png)
+
+3. 选择“GOF”矿池，点击钱包授权
+![image](images/Heco/21.png)
+  
+4. 跳出确认授权的弹窗，点击“确认”
+![image](images/Heco/22.png)
+
+质押成功后，即可看到GOF已经被成功抵押。您可以随时取消抵押、领取CAN奖励。(若数据未更新请刷新页面)
