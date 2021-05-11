@@ -137,7 +137,7 @@ Heco USDT 合约地址：
 ## Channels质押GOF挖CAN教程
 
 开始挖矿前请确认您的钱包在Heco环境下，并确保地址中存有足额的HT作为手续费
-[《MetaMask钱包配置HECO教程》](/zh-cn/heco?id=metamask钱包配置heco教程)
+[《MetaMask钱包配置HECO教程》](/zh-cn/Heco?id=metamask钱包配置heco教程)
 
 1. 将GOF转到配置了Heco网络的钱包中
 
