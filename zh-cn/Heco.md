@@ -147,10 +147,10 @@ Heco USDT 合约地址：
 
 3. 选择“GOF”矿池，点击钱包授权
 
-![image](images/Heco/21.png)
+![image](images/Heco/23.png)
   
 4. 跳出确认授权的弹窗，点击“确认”
 
-![image](images/Heco/22.png)
+![image](images/Heco/24.png)
 
 质押成功后，即可看到GOF已经被成功抵押。您可以随时取消抵押、领取CAN奖励。(若数据未更新请刷新页面)
