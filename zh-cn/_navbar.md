@@ -1,6 +1,7 @@
 * [官网](https://golff.finance)
 	* [以太坊](https://app.golff.finance)
 	* [Heco](https://heco.golff.finance)
+	* [BSC](https://bsc.golff.finance)
 
 * Language
 	* [:uk: English](/)

@@ -47,4 +47,3 @@ Golff is postioned as a one-stop services encrypted bank, committing to creating
 - Reddit：https://www.reddit.com/user/GolffProtocol
 - Github：https://github.com/golfffinance/
 - Weibo：https://weibo.com/GolffProtocol
-- Wechat：GolffHelp（微信号）
