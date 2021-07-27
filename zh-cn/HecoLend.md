@@ -71,9 +71,9 @@ Golff Lend为一键式聚合型借贷服务，将陆续聚合当下主流的 DeF
 2. 选择可清算的借款，点击清算，进入清算页面
 注意：当健康系数大于1的时候，将会被进行清算
 
-![image](images/LendV1/7.png)
+![image](images/HecoLend/7.png)
 
 3. 进入清算页面，选择需要清算的币种后，进行钱包授权，进行清算，即可获得清算币种价值*108%的G-Lendtoken，这样就完成清算。
 注意：这里清算的币种为借款人借出的币种，获得的币种及奖励为借款人存入币种的G-Lendtoken，可在借贷中将G-LendToken兑换为对应的Token
 
-![image](images/LendV1/8.png)
+![image](images/HecoLend/8.png)
