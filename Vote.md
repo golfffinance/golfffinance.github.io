@@ -1,35 +1,30 @@
-# 社区治理提案流程
+# Community Governance
 
-一个完成的Golff社区治理提案需要进行4个步骤：
-1. 提案产生   
-2. 提案公示与优化  
-3. 提案公投  
-4. 提案执行与监督
+## Community Governance Proposal generation
 
-## 提案产生
+**Purpose of this step:** Identify optimization points and problems of the Golff project, and find solutions to help the project grow better.
 
-**该步骤目的：**发现Golff项目的可优化点和问题，找到可以解决方案从而助推项目更好的发展
+**How to achieve it:** During the process of community discussion and communication, community members discover the points that can be optimized in the Golff project and explore to find solutions to form a preliminary proposal. The proposal can be fully discussed in the community beforehand to facilitate the complete presentation of the proposal.
 
-**实现方式：**社区成员在参与社区讨论以及交流的过程中，发现Golff项目可以优化的点，并探究寻找解决方案，初步形成提案。提案前期可在社区展开充分讨论，便于提案完整呈现。
+## Proposal Publicity and Optimization
+**The purpose of this step:** The initial proposals are often inadequate, so during the public period, more people can participate in the discussion of the proposal to optimize its content.
 
-## 提案公示与优化
-**该步骤目的：**社区初步形成的提案往往存在不足之处，在公示期间，可以让社区更多的人参与讨论，从而优化提案内容。
 
-**实现方式：**社区在充分讨论提案后可在Golff Vote板块进行提案公示，公示时间为48小时，公示期内，社区用户可以继续进行留言提出优化建议并展开合理性的讨论，若没有异议可对提案内容进行支持投票。如若提案存在瑕疵，提案发起人可删除原提案并重新发起提案进行相应公示。提案在经过48小时公示，并获得超过10人的支持，提案才算正式通过。在公示期内，若发现该提案具有政治敏感性或侮辱性词汇，Golff核心开发者有权将该提案在Vote板块停止公示。
+**How to achieve:** After the community has fully discussed the proposal, the proposal can be publicized in the Golff Vote board for 48 hours. During the public period, community users can continue to leave comments and suggestions for optimization and reasonable discussion, and if there is no objection, they can vote for the proposal. If the proposal is flawed, the proposal sponsor can delete the original proposal and re-initiate the proposal for the corresponding publicity. The proposal will be approved only after 48 hours of publication and more than 10 people support the proposal. If a proposal is found to be politically sensitive or insulting during the posting period, Golff core developers have the right to stop posting the proposal on the Vote board.
  
-## 提案公投
-**该步骤目的：**将公示通过后的提案在社区进行广泛的投票，让最后通过的提案能代表大多数GDAO持有用户的想法。
+## Proposal Referendum
+**Purpose of this step:** The proposal will be voted on extensively in the community so that the final approved proposal represents the majority of GDAO-owning users.
 
-**实现方式：** 公示通过的提案，将在Golff Vote板块进行公开投票，所有GDAO持有用户均可对该提案进行投票。
 
-**提案通过的认定：**
-一个提案公投通过必须同时满足以下几个条件：
-1. 提案经过了48小时的公示流程
-2. 投票时间不少于24小时
-3. 参与投票的GDao超过当前GDao流通总量的4%
-4. 投票表决结果为通过
+**How this is accomplished:** Proposals that are approved will be publicly voted on in the Golff Vote board, where all GDAO-owning users can vote on the proposal.
 
-## 提案执行与监督
-**该步骤目的：**社区投票通过的提案需要由核心团队以及志愿者团队共同执行完成，接受社区的监督
+**Proposal Passage Determination:** A proposal must pass the public vote if it meets the following conditions at the same time.
+1. The proposal has undergone a 48-hour public process
+2. Voting time is at least 24 hours
+3. More than 4% of the total number of GDao currently in circulation have voted on the proposal
+4. The ballot is approved
 
-**实现方式：**投票通过的提案，需由涉及到的组别（开发、策略、产品、社区运营、内容输出）在24小时内认领执行任务，并开始安排执行，具体执行进程将通过Golff每周项目进展周报进行社区同步。
+## Proposal Implementation and Monitoring
+**The purpose of this step:** the proposals voted by the community need to be executed by the core team and the volunteer team, and be supervised by the community.
+
+**How to achieve it:** The proposals voted by the community will be executed by the teams involved (development, strategy, product, community operation, content output) within 24 hours and the execution process will be synchronized through Golff's weekly project progress report.

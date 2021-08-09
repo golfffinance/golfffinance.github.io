@@ -1,14 +1,12 @@
-# Golff Lend借贷使用手册
+# Golff Lend Tutorial
 
-## 什么是Golff Lend
+## What is Golff Lend
 
-Golff Lend为一键式聚合型借贷服务，将陆续聚合当下主流的 DeFi 借贷平台，如AAVE、Compound、dYdX 等。 这将大大扩展可用于借贷的底层资产，增强用户的资产流动性，并且还能优选最佳利率，降低用户的借贷成本。同时Golff借贷未来采用全新的链上手续费替代方案，用于解决常见的以太坊高资金费率问题，大大降低合约调用手续费，降低用户参与的门槛。
- 
-通过[Golff官网](https://golff.finance)导航进入借贷页面，或直接访问[产品页](https://app.golff.finance/lend)并链接钱包（目前支持Metamask、ImToken、BitKeep、火币钱包、麦子钱包、TokenPocket等常规钱包，以下以Metamask为例）。
-
-目前Golff支持的币种有：USDT、USDC、DAI、ETH、WBTC这5种，我们可以通过在Golff Lend借贷这些币种来进行GOF挖矿。
+Golff Lend is a one-click aggregation lending service that will aggregate with mainstream DeFi lending platforms such as AAVE, Compound, dYdX and others. This will greatly expand the underlying assets available for lending, enhance the liquidity of users' assets, and reduce the cost of borrowing by selecting the best interest rates. At the same time, Golff lending will adopt a new on-chain fee alternative in the future to solve the common problem of high ethereum funding rates, significantly reducing contract call fees and lowering the threshold for user participation.
 
 ![image](images/LendV1/1.png)
+
+Navigate to the lending page through Golff's official website (https://golff.finance/), or directly visit the product page (https://app.golff.finance/lend) and link to the wallet (currently supports regular wallets such as Metamask, ImToken, BitKeep, Firecoin Wallet, Wheat Wallet, TokenPocket, etc., with Metamask as the example below).
 
 ## Golff Lend有什么优势
 - 增加挖矿机制：增加挖矿收益，存币和借币都可以获得GOF挖矿收益

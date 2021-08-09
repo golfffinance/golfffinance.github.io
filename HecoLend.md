@@ -1,80 +1,57 @@
-# Golff Lend（Heco）使用教程
+# Golff Lend（Heco）Tutorial
 
-## 什么是Golff Lend
+## What is Golff Lend
 
-Golff Lend为一键式聚合型借贷服务，将陆续聚合当下主流的 DeFi 借贷平台，如AAVE、Compound、dYdX 等。 这将大大扩展可用于借贷的底层资产，增强用户的资产流动性，并且还能优选最佳利率，降低用户的借贷成本。同时Golff借贷未来采用全新的链上手续费替代方案，用于解决常见的以太坊高资金费率问题，大大降低合约调用手续费，降低用户参与的门槛。
+Golff Lend is a one-click aggregation lending service that will aggregate with mainstream DeFi lending platforms such as AAVE, Compound, dYdX and others. This will greatly expand the underlying assets available for lending, enhance the liquidity of users' assets, and reduce the cost of borrowing by selecting the best interest rates. At the same time, Golff lending will adopt a new on-chain fee alternative in the future to solve the common problem of high ethereum funding rates, significantly reducing contract call fees and lowering the threshold for user participation.
 
-通过[Golff官网](https://golff.finance)导航进入借贷页面，或直接访问[产品页](https://heco.golff.finance/lend)并链接钱包（目前支持Metamask、ImToken、BitKeep、火币钱包、麦子钱包、TokenPocket等常规钱包，以下以Metamask为例）。
+Navigate to the lending page through Golff's official website (https://golff.finance/) and link to the wallet (currently supports regular wallets such as Metamask, ImToken, BitKeep, Firecoin Wallet, Wheat Wallet, TokenPocket, etc., with Metamask as the example below).
 
-目前Heco Golff Lend支持的币种有：HT、HUSD、USDT、HBTC、ETH、MDX、HFIL、HBCH、HDOT、HPT、HLTC、UNI、AAVE这13种，我们可以通过在Golff Lend借贷这些币种来进行GOF挖矿。
+?> Metamask wallet link Heco network tutorial See：[MetaMask wallet configuration HECO tutorial for details](Heco)
 
-?> Metamask钱包链接Heco网络教程具体见[MetaMask钱包配置HECO教程](Heco)
+## What are the advantages of Golff Lend
 
-## Golff Lend有什么优势
-- 增加挖矿机制：增加挖矿收益，存币和借币都可以获得GOF挖矿收益
-	- 用户在存币和借币时都可以参与借贷挖矿
-	- Heco Golff Lend每周借贷挖矿总量约3480个GOF，按不同比例分配到各个借贷矿池中
-- 聚合借贷：V2将陆续聚合当下主流的 DeFi 借贷平台，自动为用户提供全网存币借币利率最优解。
-- 借贷机枪池：V3将借贷结合杠杆机枪池挖矿产品，将用户的收益最大化
+- Increase mining mechanism: increase mining revenue, both depositing and borrowing coins can get GOF mining revenue.
+	- Users can participate in lending mining when depositing and borrowing coins
+	- Heco Golff Lend has a total of 3,480 GOFs per week, which are allocated to each lending pool in different proportions
+![image](images/HecoLend/2.png)
 
-## 如何存币？
+- Aggregate lending: V2 will aggregate the mainstream DeFi lending platforms one after another to automatically provide users with the best solution for coin storage and lending rates across the network.
+- Lending Vault pool: V3 will combine lending with leveraged Vault pool mining products to maximize users' revenue.
 
-以下以储存USDT为例进行说明:
-在供应市场列表中找到USDT币种，点击后出现USDT存币弹窗，第一次操作需要授权Golff Lend的智能合约使用账户中的USDT币种，点击“启用”按钮，在弹出的Metamask钱包窗口中，确认这笔授权交易。
+## How to deposit?
+
+The following is an example of how to store USDT: Find the USDT coin in the supply market list, click on it and the USDT deposit pop-up window will appear, the first operation requires authorizing Golff Lend's smart contract to use the USDT coin in your account, click on the "Enable" button, and in the Metamask wallet pop-up window, confirm the authorization. In the Metamask wallet pop-up window, confirm the authorized transaction.
 
 ![image](images/HecoLend/1.png)
 
-确认完成后，在存入弹窗中输入要存入的USDT的数量，在弹窗中我们可以看到预计年化收益，单个币种的年化收益会随着该币种借出数量的增加而增加，即该币种的使用率越高年化收益越高。输入数量完成后点击“存入”按钮，在弹出的Metamask钱包窗口中，确认这笔存入交易。
+After confirming, enter the amount of USDT to be deposited in the deposit pop-up window. In the pop-up window, we can see the estimated annualized return, the annualized return of a single coin will increase as the number of coins lent increases, i.e. the higher the usage rate of the coin the higher the annualized return. Click the "Deposit" button after entering the quantity, and confirm the deposit transaction in the Metamask wallet window that pops up.
 
-存入成功后即可在页面上方看到账户的存款余额。同时你会在账户中收到G-Lendtoken，赎回时需通过G-Lendtoken赎回您的抵押资产。
+Once the deposit is successfully made, you will see the balance of your account at the top of the page. At the same time, you will receive a G-Lendtoken in your account, and you will need to redeem your collateral assets through the G-Lendtoken when you redeem.
 
-## 如何抵押？
+## How to mortgage?
 
-若要在Golff Lend中借出币种，首先需要在Golff Lend中存入一种资产，并对该资产进行抵押，则可以借出其他的资产。请注意，当抵押品和借出资产价格波动时，抵押资产有可能会在清算中被扣押。
+To lend coins in Golff Lend, you first need to deposit an asset in Golff Lend and pledge that asset, then you can lend other assets. Please note that collateral assets may be subject to seizure in liquidation when the price of the collateral and the lending asset fluctuates.
 
-若要抵押资产，则需要在供应市场列表中点击“抵押”开关，开启该币种的抵押。在弹出的界面中点击“使用USDC作为抵押”，然后在弹出的Metamask钱包窗口中，确认这笔操作。
+To mortgage an asset, click on the "Mortgage" switch in the Supply Market list to turn on the mortgage for that currency. Click on "Use USDC as collateral" in the pop-up screen and then confirm the action in the Metamask wallet pop-up window.
 
-![image](images/HecoLend/2.png)
+At the top of the page you can see the funds deposited and funds lent, as well as the current loanable limit.
 
-在页面的上方可以看到已存入的资金和已借出的资金，以及当前的可贷款限额
+## How to borrow?
 
-![image](images/HecoLend/3.png)
+In the lending marketplace, select the coins you want to lend, click on the list of coins to be lent pop-up, enter the number of coins you want to lend, click on the "Loan" button, and then in the Metamask wallet pop-up window, confirm the operation. After the on-chain operation is completed, you will receive the loaned coins in your wallet.
 
-## 如何借币？
+## How to repay?
 
-在借贷市场中，选择要借出的币种，点击列表出现借币弹窗，输入要借出的币种数量，点击“贷款”按钮，然后在然后在弹出的Metamask钱包窗口中，确认这笔操作。待链上操作完成后，您将会在钱包中收到借出的币种。
+Click on the coin you are borrowing in the lending market, select "Repayment" in the pop-up window, enter the amount you want to repay and click the "Repay" button, and confirm the transaction in your Metamask wallet. When the on-chain operation is completed, you will see an increase in the number of tokens available for lending on the page.
 
-![image](images/HecoLend/4.png)
+After the repayment is completed, you can redeem the collateral, select the coin in the supply market, and select the "Withdraw" operation in the pop-up window, enter the amount to be withdrawn, click the "Withdraw" button, and confirm the transaction in the Metamask wallet. If the asset is being pledged or the amount available for withdrawal is insufficient, the withdrawal operation cannot be performed.
 
-## 如何偿还？
+## Liquidation Mechanism
 
-在借贷市场中点击正在借款中的币种，在弹窗中选择“还款”操作，输入要还款的数量，并点击“还款”按钮，并在Metamask钱包中确认该笔交易。待链上操作完成后，会在页面上看到可借出的代币数量增加。
+Borrowers are required to pledge certain assets in Golff Lend at the time of borrowing. The amount that borrowers can borrow is determined by the pledge factor, i.e. the loan limit is: value of pledged assets x pledge factor.
 
-![image](images/HecoLend/5.png)
+When the price of collateral and lending assets fluctuates, the collateral assets may be seized in liquidation. Golff Lend therefore monitors each borrowing account in real time and risks liquidation of a user's lent assets when the lent assets exceed the loan limit.
 
-还款完成后可以将抵押品进行赎回，在供应市场中选择币种，并在弹窗中选择“提现”操作，输入要提现的数量，点击“提现”按钮，并在Metamask钱包中确认该笔交易。若资产正在抵押中或可提现的金额不足，则无法进行提现操作。
+At this point, the user can trigger the liquidation process as a liquidator and can obtain collateral at a discount. As a result, the borrower repays the loan to the DeFi Lending System, avoiding debt and bad debts on the DeFi Lending Platform, maintaining the solvency of the system, and at the same time, the liquidator gains revenue and the platform is able to operate normally.
 
-## 清算机制
-
-借款人在借款时候，需要在Golff Lend中抵押一定的资产，借款人可以借款的金额由抵押系数，即贷款上限为：抵押资产价值x抵押系数。
-
-当抵押品和借出资产价格波动时，抵押资产有可能会在清算中被扣押。因此Golff Lend会实时监控每一个借款账户，当借出资产超过贷款上限时，用户的借出资产将有被清算的风险。
-
-此时用户可作为清算人触发清算程序，可以以一定的折扣获得抵押品，由此，借款人偿还了 DeFi 借贷系统的贷款，避免 DeFi 借贷平台出现债务和坏账，维持了系统的偿付能力，同时，清算人获得了收益，平台也行以正常运行。
-
-例如A用户存入10000U价值的USDT并进行抵押借贷，借出5了个ETH，此时5个ETH价格上涨至7500U，A用户的资产触发了清算边界。此时清算人B对此进行清算，他替A用户偿还了2.5个ETH（单次清算最高限额为借款金额的50%），他可以获得清算金额*108%对应的G-LendUSDT。
-
-
-## 如何进行清算
-
-1. 在侧边导航栏中找到借贷市场-清算池
-
-2. 选择可清算的借款，点击清算，进入清算页面
-注意：当健康系数大于1的时候，将会被进行清算
-
-![image](images/HecoLend/7.png)
-
-3. 进入清算页面，选择需要清算的币种后，进行钱包授权，进行清算，即可获得清算币种价值*108%的G-Lendtoken，这样就完成清算。
-注意：这里清算的币种为借款人借出的币种，获得的币种及奖励为借款人存入币种的G-Lendtoken，可在借贷中将G-LendToken兑换为对应的Token
-
-![image](images/HecoLend/8.png)
+For example, user A deposited 10,000U worth of USDT and made a collateralized loan, and lent 5 ETH, when the price of 5 ETH rose to 7500U, user A's asset triggered the liquidation boundary. At this time, liquidator B liquidates this, and he repays 2.5 ETH for user A (the maximum single liquidation limit is 50% of the borrowed amount), and he can get the G-LendUSDT corresponding to the liquidation amount*108%.
