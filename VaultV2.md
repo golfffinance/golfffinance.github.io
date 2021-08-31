@@ -1,63 +1,58 @@
-# Vault V2机枪池产品操作手册
+# Vault V2 Tutorial
 
-## 什么是Golff Vault
+## What is Golff Vault
 
-Golff Vault就是一个智能化的收益聚合器(Earn Collection), 基于自动实现最佳收益策略配置的DeFi协议。它能够帮助投资人一键获取市场最优收益，从而在大大降低普通投资者进入门槛的同时，能减少因信息不对称而导致的收益损失。
+Golff Vault is an intelligent Earn Collection, based on the DeFi protocol that automates the allocation of optimal earnings strategies. It helps investors to access the best returns in the market with one click, thus greatly reducing the barrier of entry for ordinary investors while reducing the loss of returns due to information asymmetry.
 
-## Golff Vault V2有哪些优点
+## What are the advantages of Golff Vault V2？
 
-1. 免去流动性挖矿复杂的合约操作环节，节省用户高昂Gas费用，只需充值资产给Gollf Vault V2智能合约作为代理，一键充值/提现，就能获得市场上最佳收益
-2. 前期由核心团队的10多位全职合约工程师进行开发，并且每个合约都经过两家以上的全球知名安全公司进行代码审计，最大程度上保证合约的安全。同时，Golff的社区工程师团队也在逐步组建，我们欢迎所有的优秀开发者加入Golff的合约开发和审计中来。未来，Golff的保险产品也会支持对与Golff Vault V2中的策略进行承包，进一步减少可能的风险损失。
-3. 由社区内20多位策略分析师进行市场信息收集，第一时间发现高收益策略，并提交合约组进行开发
-4. Golff Vault V2是由 Golff DAO 治理的智能合约，资金由合约去中心化托管，无需信任第三方
-5. 收益策略自动再平衡：根据当前市场情况，Golff Vault V2机枪池会自动切换策略。对于某个币种来说，用户无需提币再充值到新池子，即可获得当前市场最高收益。每个币种的唯一池子就是当前市面上最高收益的Vault。
+1. Eliminate the complicated contract operation link of liquidity mining, save users high Gas fees, just top up assets to Gollf Vault V2 smart contract as a proxy, one click to top up/withdraw, and you can get the best return in the market
+2. The front-end is developed by the core team of more than 10 full-time contract engineers, and each contract is audited by more than two globally renowned security companies for code audit to ensure the security of the contract to the maximum extent. Meanwhile, Golff's team of community engineers is gradually being formed, and we welcome all outstanding developers to join Golff's contract development and auditing. In the future, Golff's insurance products will also support contracting with the strategies in Golff Vault V2 to further reduce possible risk losses.
+3. Market information collection by more than 20 strategy analysts in the community to identify high-yielding strategies first and submit them to the contracting group for development
+4. Golff Vault V2 is a smart contract governed by the Golff DAO, with funds decentralized and hosted by the contract, eliminating the need to trust third parties
+5. Automatic rebalancing of yield strategies: Based on current market conditions, Golff Vault V2 Vault pool will automatically switch strategies. For a particular coin, users do not need to withdraw and recharge to a new pool to get the highest returns in the current market. The only pool for each coin is the current highest yielding Vault in the market.
 
-## Golff Vault机枪池使用流程
-1. 打开官网 https://app.golff.finance/vault ，准备钱包和充足的代币，需准备一些ETH作为合约手续费
-2. 选择要参与质押的币种
+## How to use Golff Vault
+1. Open the official website https://app.golff.finance/vault, prepare your wallet and sufficient tokens, you need to prepare some ETH as contract fees
+
+2. Select the coins to be pledged
 
 ![image](images/VaultV2/1.png)
 
-3. 存入前先对币种进行钱包授权
+3. Authorize the wallet for the coins before depositing
 
 ![image](images/VaultV2/2.png)
 
-4. 然后输入数量，点击“存入”（也可以一键点击“全部存入”），即可开启Gollf Vault挖矿，获得当前市场上的最佳收益
+4. Then enter the quantity and click "Deposit" (you can also click "Deposit All") to start Golff Vault mining and get the best return in the current market. After successful deposit, you will receive the corresponding number of G-V2Tokens in your on-chain wallet, you can check the balance of G-V2Token on the Ethernet block browser, or add the corresponding coin contract address in your wallet.
 
-![image](images/VaultV2/3.png)
+5. Enter the amount and click "Withdraw" or "Withdraw All" to receive the number of G-V2Token in the Vault pool.
 
-![image](images/VaultV2/4.png)
+## Revenue Distribution
 
-存入成功后，链上钱包中会收到对应数量的G-V2Token，可以在以太坊区块浏览器上查看G-V2Token余额，或者在钱包中添加对应币种合约地址查看，每一个G-V2Token代表了您在该Vault池中可领取的资金份额
+The proceeds of various cryptocurrencies generated in the Golff Vault pool are automatically placed in the Vault pool, of which 90% of the proceeds are distributed to the fund contributors and the remaining 10% is used to repurchase GOF in the secondary market, of which 4% is for the Community Developer Fund, 4% is destroyed, 1% is for the risk reserve and 1% harvest contract call. The risk reserve is used to cover losses incurred by Vault investors due to unforeseen risks. Secondary market repurchase will be conducted in DEX, and the DEX where the main repurchase operation will be conducted will be announced before the repurchase. The whole process of revenue generation and distribution is realized on the chain through smart contracts, which is completely open and transparent and subject to the supervision of the whole community. In the future, the main parameters of the revenue distribution can be changed through the community's voting governance.
 
-5. 输入数量点击右侧“提取”或点击“全部提取”，即可领取对应G-V2Token在该Vault池中可兑换的Token数量
-
-## 收益分配
-
-Golff Vault池子中产生的各种加密货币的收益会自动放入Vault资金池，其中90%收益分配给资金投入者，剩余10%用于在二级市场回购GOF，其中4%为社区开发者基金，4%销毁，1%为风险储备金，1%harvest合约调用。风险储备金用于弥补因不可预见的风险而给Vault投资人带来的亏损。二级市场的回购会在DEX中进行，在回购前会公布主要进行回购操作的DEX。
-收益的产生和分配全过程通过智能合约在链上实现，完全公开透明，接受全社区的监督。未来可以通过社区的投票治理去更改收益分配中的主要参数。
-
-![image](images/VaultV2/5.png)
+![image](images/VaultV2/5.jpeg)
 
 
-## 关于G-V2Token
+## About G-V2Token
 
-#### 1.什么是G-V2Token？
+#### 1.What is G-V2Token?
 
-G-V2Token是Golff核心产品业务Vault V2（机枪池）的权益Token，为原GToken的升级版本。G-V2Token承载了Golff的核心业务价值，将投资者存入Golff Vault的普通Token转化为生息G-V2Token，并通过机枪池的自动优化收益策略，持续提升G-V2Token的价值。同时G-V2Token符合ERC20标准，可用于与其他DeFi产品进行乐高式组合，生成更为复杂的DeFi衍生品。
+G-V2Token is the equity Token of Golff's core product business, Vault V2 (Vault Pool), which is an upgraded version of the original GToken. optimizing revenue strategy to continuously enhance the value of G-V2Token. At the same time, G-V2Token is ERC20 compliant and can be used for Lego-style combinations with other DeFi products to generate more complex DeFi derivatives. 
 
-#### 2.为什么要开发G-V2Token？对Golff有哪些好处？
+#### 2.Why did you develop G-V2Token and what are the benefits for Golff?
 
-Golff Vault机枪池在实际应用时不可避免的需要用户锁定相应Token在资金池中用于策略的执行，用户会因各种需求提取资金，造成Golff Vault资金外流。G-V2Token则可有效解决资金外流的问题，因G-V2Token机制会保证其价值永久高于Token，且会不断增长，当用户需要资金时，无需从机枪池提取本金，只需用G-V2Token在Uniswap等平台直接交易成Token即可。同时Golff Vault在功能上进行了优化，对闪电贷以及巨鲸稀释池内权益等方面做了防范，让投资者的利益得到充分保障。
+The Golff Vault pool inevitably requires users to lock the corresponding Tokens in the pool for strategy execution, and users will withdraw funds due to various needs, resulting in Golff Vault outflows. The G-V2Token mechanism ensures that the value of the G-V2Token is always higher than that of the Token, and will continue to grow. When users need funds, they do not need to withdraw the principal from the Vault pool, but can simply use the G-V2Token to trade directly into Tokens on platforms such as Uniswap. At the same time Golff Vault has optimized its functions and made precautions against lightning loans and the dilution of equity in the pool by giant whales, so that the interests of investors are fully protected. 
 
-#### 3.G-V2Token的机制是怎样的，与GToken有何差异？
+#### 3.What is the mechanism of G-V2Token and how does it differ from GToken?
 
-Golff Vault 2.0（机枪池）内每个币种均对应于一个专属G-V2Token，如ETH机枪池产生的权益G-V2Token为G-V2ETH，代表了用户对机枪池内ETH资产的权益份额。由于Golff机枪池采用的是本金无损策略，目标矿池的收益会由合约自动兑换成本币Token，因持续的收益放入池内，而G-V2Token的数量不变，用户可凭借G-V2Token可兑换的Token数量越多，G-V2ETH价格相对于ETH的汇率也会持续提升。但随着池内资金的增加，价格增长速度会伴随减慢，而旧版Golff Vault 1.0采用的是GToken与Token恒定1:1锚定关系，未能绑定收益，将限制GToken的流通价值。G-V2Token的全新特性将可促进G-V2Token在二级市场替代原Token的流通。
+Each coin in Golff Vault 2.0 (Vault Pool) corresponds to an exclusive G-V2Token, for example, the equity G-V2Token generated by the ETH Vault Pool is G-V2ETH, which represents the user's equity share of the ETH assets in the Vault Pool. Since the Golff Vault Pool uses a principal-free strategy, the proceeds of the target pool will be automatically converted to costcoin Tokens by the contract, and the number of G-V2Tokens will remain unchanged due to the ongoing proceeds put into the pool, the more Tokens the user can exchange by virtue of the G-V2Token, the more the G-V2ETH price will continue to increase relative to the ETH exchange rate. The new features of G-V2Token will facilitate the circulation of G-V2Token in the secondary market instead of the original Token. The new features of G-V2Token will facilitate the circulation of G-V2Token in secondary market instead of the original Token. 
 
-#### 4.Golff Vault V2 收益如何分配？
+#### 4.How will Golff Vault V2 proceeds be distributed？
 
-用户资金进入机枪池后，会自动配置该币种下最优挖矿策略，在保证本金安全前提下进行最高收益挖矿。其利润的90%将通过DEX将收益兑换成本币进入资金池，其余10%将用于二级市场回购GOF，具体分配如下：
-- Harvest收割奖励 1%，用于补贴收割gas费用。频繁调用 Harvest 有助于减少收割时产生的滑点，增加机枪池用户整体收益。
-- 风险储备金为1%，风险储备金用于弥补因不可预见的风险而给Vault投资人带来的亏损。
-- 4%用于在二级市场回购GOF进入Vault基金池，用途后续由社区决定。
-- 4%回购的GOF将进行直接销毁。
+After the user funds enter the Vault pool, the optimal mining strategy under the coin will be automatically configured, and the highest revenue mining will be conducted under the premise of ensuring the safety of the principal. 90% of its profit will be converted to costcoin into the pool through DEX, and the remaining 10% will be used to repurchase GOF in the secondary market, with the following allocation. 
+
+- Harvest harvesting bonus 1% to subsidize the cost of harvesting gas. Frequent calls to Harvest help reduce the slippage generated during harvesting and increase the overall revenue of the Vault pool users.
+- Risk reserve of 1%. The risk reserve is used to cover losses to Vault investors due to unforeseen risks.
+- 4% is used to repurchase GOF in the secondary market to enter the Vault pool, the use of which is subsequently determined by the community.
+- The 4% repurchased GOF will be directly destroyed.

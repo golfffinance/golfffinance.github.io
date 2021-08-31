@@ -1,26 +1,22 @@
-# 关于Golff FantasticFarm流动性挖矿
+# About Golff Farm
 
-## 产品设计
+## Product Design
 
-Golff Farm是通过流动性挖矿的方式去产生初始治理代币GOF，并且吸引大量的用户与资金一起参与到这场金融实验中来。流动性挖矿产生初始代币是一种更为公平、透明的方式，并且能帮助Golff在短期内快速获取初始用户。Golff的流动性挖矿将会分为多阶段进行，在挖矿获得高收益的同时有更强的游戏体验感与趣味性，激励用户更多与更持续的参与。这是比Staking更简洁的质押挖矿业务，**一键入金、一键提现，便捷高收益**。
+Golff Farm is a financial experiment to generate initial governance tokens through liquidity mining and to attract a large number of users and funds to participate in the process. The liquidity mining to generate initial tokens is a fairer and more transparent way and helps Golff to acquire initial users quickly in a short period of time.Golff's liquidity mining will be divided into multiple phases to have a stronger sense of game experience and fun while mining for high returns, motivating users to participate more and more continuously. This is a simpler pledge mining business than Staking, with one click deposit and one click withdrawal, convenient and high yield.
 
-以下是Golff Farm第一期挖矿的激励分配方案（时间为5周，挖矿产出250万枚GOF）：
+The following is the incentive distribution scheme for the first phase of Golff Farm mining (5 weeks, 2.5 million GOFs mined):
 
 ![image](images/aboutFarm/1.png ':size=700')
 
-头矿的6个池子为：GXC、wETH、USDT、HT、YFII、LINK。6个池子各有每周s83333枚GOF的挖矿产出，即一天11904枚GOF。
+Below are the steps to use Golff Farm: 
 
-以下是Golff Vault的产品使用步骤，更详细的包含UI界面的产品使用说明请参见“2.1 Farm 挖矿操作手册”
+1. Go to the Golff website, connect to your wallet and authorize your assets
+2. Return to the Farm section of the Golff website and deposit the specified cryptocurrency assets
+3. Golff Farm will calculate your GOF earnings based on the percentage of your assets in the current mining poolReceive and withdraw GOF earnings
+4. Receive and withdraw GOF earnings
 
-1. 进入[Golff官网](https://golff.finance)，连接钱包并进行资产授权
-2. 返回Golff官网中的Farm板块中存入指定的加密货币资产
-3. Golff Farm将根据您的资产在当前矿池中资产的占比计算出您的GOF收益
-4. 领取和提现GOF收益
+## Golff Farm Advantages
 
-## Golff Farm优势
+- Multiple rounds of play iterations for more excitement and upgraded revenue Golff liquidity mining is divided into three rounds in the first phase. 6 pools in the first round have a competitive relationship with each other, the GXC pool, HT pool + the pool that ranks first in pledged market value in the first round, advances to King Pool and enjoys a 70% boost in incentives.
 
-- 多轮次玩法迭代，更刺激，收益升级
-Golff流动性挖矿在第一阶段分为三轮进行，第一轮的6个池子之间存在竞争关系，GXC池、HT池+第一轮中质押市值排名第一的池子，晋级为King Pool，享受提升70%的激励。
-
-- 社区化治理，公平公正
-从第二轮开始，社区用户便可以使用自己手里的GOF投票去决定可以进行流动性挖矿的池子。第三轮开始可以由持币用户投票而产生新的池子。这不仅将GOF产出方式的决定权进一步交给社区，还能增加GOF的内在价值和权益。同时这样的方式还能吸引更多优秀币种的社区关注GOF。
+- Community-based governance, fair and equitable From the second round, community users can use their GOF to vote on the pools that can be mined for liquidity. From the third round onwards, new pools can be created by coin holders' votes. This not only puts the decision of how to produce GOF in the hands of the community, but also increases the intrinsic value and equity of GOF. Also this way can attract more communities of good coins to pay attention to GOF.

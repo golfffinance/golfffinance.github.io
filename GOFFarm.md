@@ -1,13 +1,12 @@
-# Golff Farm 操作手册
+# Golff Farm Tutorial
 
 ## PC端操作教程
 
-1. 准备钱包和充足的代币，需准备一些ETH作为合约手续费
+1. Prepare the wallet and sufficient tokens, some ETH is needed for the contract fee
 
-[Metamask钱包下载链接](https://metamask.io/download.html)
-[BitKeep钱包下载链接](https://www.bitkeep.com/)
+[Metamask wallet download link](https://metamask.io/download.html)
 
-2. 访问Farm产品页，[以太链](https://app.golff.finance/farm),[Heco版](https://heco.golff.finance/farm)。以以太链为例。
+2. Visit Farm product page
 
 ![image](images/GOFFarm/1.png)
 

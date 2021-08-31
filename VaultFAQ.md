@@ -1,31 +1,32 @@
-# Golff Vault FAQ常见问题
+# Golff Vault FAQ
 
-## 什么是G-HecoToken
+## What is G-HecoToken
 
-G-HecoToken相对Heco版Golff Vault 同等于G-V2Token相对以太版Golff Vault V2，是Golff Vault的权益Token。
+G-HecoToken is the same as G-V2Token is the same as Golff Vault V2, the equity Token of Golff Vault.
 
-## 为什么在机枪池存入1 USDT，得不到1 G-HecoUSDT？
+## Why don't I get 1 G-HecoUSDT when I deposit 1 USDT in the Vault pool?
 
-由于Golff机枪池采用的是本金无损策略，目标矿池的收益会由合约自动兑换成本币Token，因持续的收益放入池内，而G-HecoToken的数量不变，用户可凭借G-HecoToken可兑换的Token数量越多。所以Token和G-HecoToken的兑换率并非1:1关系，G-HecoToken是抵押份额权证，每一个G-HecoToken拥有单位净值。
+Since Golff Vault Pool uses a principal-less strategy, the proceeds of the target pool will be automatically converted to costcoin Tokens by the contract, and the more Tokens a user can redeem by virtue of G-HecoToken due to the ongoing proceeds put into the pool, while the number of G-HecoTokens remains the same. So the exchange rate between Token and G-HecoToken is not a 1:1 relationship, G-HecoToken is a collateralized share warrant and each G-HecoToken has a unit net value.
+
+Net value per unit formula: 
 ```
-单位净值计算公式：单位净值=当前资金池累计Token数量/累计发行G-HecoToken数量
+Net value per unit = cumulative number of Tokens in the current pool / cumulative number of G-HecoTokens issued
 ```
-当每次收益获取后，单位净值会发生更新。G-HecoUSDT的单位净值为1.1，则您存入10000USDT可以得到：
+G-HecoUSDT has a unit equity of 1.1, so if you deposit 10,000 USDT you will get: 
 ```
 10000 USDT/ 1.1 = 9090.9 G-HecoUSDT
 ```
 
-## 自动复投及复利机制
 
-自动复投可以简单理解为机枪池会自动将目标池中的收益提取出来并重新投入，以此达到收益复投产生更多收益的机制。由于常规目标收益为固定收益，即投入本金固定，在收益率不变的情况下，收益产出也是固定。而自动复投可以将一定时间的内的收益自动提取出来并重新作为本金投入，以此达到增加收益的目的。
+## Automatic reinvestment and compound interest mechanism
 
-比如若目标固定年化收益率为50%，若按照日进行复投，年化收益率则为：
+Automatic reinvestment can be simply understood as a mechanism by which the Vault pool will automatically withdraw and reinvest the earnings from the target pool, thus achieving earnings reinvestment to generate more earnings. As the conventional target income is fixed income, i.e. the invested principal is fixed, and the income output is also fixed under the condition that the yield remains unchanged. Automatic reinvestment, on the other hand, can automatically withdraw the income within a certain period of time and reinvest it as the principal, thus achieving the purpose of increasing the income.
+
+For example, if the target fixed annualized rate of return is 50%, if the reinvestment is done on a daily basis, the annualized rate of return would be
 ```
-（1+50%/365）^365 -1 = 64.8%
+(1+50%/365)^365 - 1 = 64.8%
 ```
 
-我们会发现在复投后，年化收益率会有明显的提升。
+## Why there is no revenue increase in a short period of time after deposit
 
-## 为何存入后短期内没有收益增加
-
-机枪池收益需要配合Harvest进行收益结算，目前机枪池刚上线，结算触发周期较长，并非实时结算收益，短时间内的存取可能会出现没有收益的情况。所以存入资金后请耐心等待收益结算，即可看到收益变化。
+The proceeds of the Vault pool need to be settled with Harvest. At present, the Vault pool has just been launched and the settlement trigger period is long, so the proceeds are not settled in real time and there may be no proceeds for a short period of access. Therefore, please wait patiently for the settlement of earnings after depositing funds, and you can see the change of earnings.

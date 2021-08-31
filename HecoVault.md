@@ -1,64 +1,43 @@
-# Heco Golff Vault机枪池产品操作手册
+# Heco Golff Vault Tutorial
 
-## 什么是Heco Golff Vault
+## What is Heco Golff Vault
 
-Heco Golff Vault是一个基于火币生态链的智能化收益聚合器(Earn Collection), 是基于自动实现最佳收益策略配置的DeFi协议。它能为投资人一键获取Heco链上最优收益，从而在大大降低普通投资者进入门槛的同时，能减少因信息不对称而导致的收益损失。
+Heco Golff Vault is an intelligent earnings aggregator (Earn Collection) based on the Firecoin ecosystem chain, based on the DeFi protocol that automatically achieves the best earnings strategy configuration. It provides investors with one-click access to the best returns on the Heco chain, thus greatly reducing the barrier to entry for ordinary investors while reducing the loss of returns due to information asymmetry.
 
-![image](images/HecoVault/1.png)
 
-## Heco Golff Vault有哪些优点
+## What are the benefits of Heco Golff Vault
 
-1. 免去流动性挖矿复杂的合约操作环节，Heco版本的Golff Vault可以帮助用户节省更多合约操作手续费，用户只需充值资产给Golff Vault Heco版智能合约作为代理，一键充值/提现，就能获得市场上最佳收益；
-2. 前期由核心团队的10多位全职合约工程师进行开发，并且每个合约都经过全球知名安全公司进行代码审计，最大程度上保证合约的安全。同时，Golff的社区工程师团队也在逐步组建，我们欢迎所有的优秀开发者加入Golff的合约开发和审计中来。未来，Golff的保险产品也会支持对与Heco Golff Vault中的策略进行承包，进一步减少可能的风险损失；
-3. 由社区内20多位策略分析师进行市场信息收集，第一时间发现高收益策略，并提交合约组进行开发，相比原先的Golff Vault V2，Heco版的Vault切换策略会更加的频繁，最快地将机枪池中的资金投入到收益更高的策略中；
-4. Heco Golff Vault是由 Golff DAO 治理的智能合约，资金由合约去中心化托管，无需信任第三方；
-5. 收益策略自动再平衡：根据当前市场情况，Heco Golff Vault机枪池会自动切换策略。对于某个币种来说，用户无需提币再充值到新池子，即可获得当前市场最高收益。每个币种的唯一池子就是当前市面上最高收益的Vault
-6. 最新版本的Heco Golff Vault将增加自动复投功能，在用户无需额外操作的情况下，帮助用户的资金达到利益最大化
+1. Eliminating the complex contract operation link of liquidity mining, the Heco version of Golff Vault helps users save more on contract operation fees, users only need to top up assets to the Golff Vault Heco version of smart contracts as an agent and top up/withdraw with one click to get the best returns in the market.
+2. The front-end is developed by the core team of more than 10 full-time contract engineers, and each contract is audited by a globally renowned security company for code auditing to ensure the maximum security of the contract. Meanwhile, Golff's team of community engineers is gradually being formed, and we welcome all outstanding developers to join Golff's contract development and auditing. In the future, Golff's insurance products will also support contracting with strategies in the Heco Golff Vault, further reducing possible risk losses.
+3. Market information collection by more than 20 strategy analysts in the community to be the first to identify high-yielding strategies and submit them to the contract group for development. Compared to the original Golff Vault V2, the Heco version of the Vault will switch strategies more frequently and put money from the Vault pool into higher-yielding strategies in the fastest way possible.
+4. Heco Golff Vault is a smart contract governed by Golff DAO, with funds decentralized and hosted by the contract, without the need to trust third parties.
+5. Automatic rebalancing of yield strategies: the Heco Golff Vault Vault pool automatically switches strategies based on current market conditions. For a particular coin, users do not need to withdraw coins and recharge to a new pool to get the highest returns in the current market. The only pool for each cryptocurrency is the highest yielding Vault in the current market
+6. The latest version of Heco Golff Vault will add an automatic reinvestment feature to help users maximize their capital without additional actions
 
-## Golff Vault机枪池使用流程
+## How to use Golff Vault 
 
-1. 打开官网，准备钱包和充足的代币，需准备一些HT作为合约手续费。（需要将Metamask/移动端钱包切换至Heco网络，切换教程）
+1. Open the official website, prepare the wallet and sufficient tokens, need to prepare some HT for contract fees. (Need to switch Metamask/mobile wallet to Heco network, switching tutorial)
+Heco Golff Vault participation address: https://heco.golff.finance/vault 
+2. Select the coins to participate in the pledge, currently supported: USDT, SKM, LAVA, HT, HUSD, HBTC, ETH, HDOT, HFIL, HLTC, HPT, MDX, BCH, UNI (more coins will be supported in the future) 
+3. Authorize the wallet for the cryptocurrency before depositing 
+4. Then enter the quantity and click "Deposit" (you can also click "Deposit All") to start Golff Vault mining and get the best profit in the current market. 
+5. After successful deposit, you will receive the corresponding number of G-HecoTokens in your on-chain wallet, you can check the G-HecoToken balance in the Heco browser or add the corresponding coin contract address to your wallet. 
+6. Enter the amount and click "Withdraw" or "Withdraw All" to receive the amount of G-HecoToken that can be redeemed in the Vault pool. 
 
-Heco Golff Vault参与地址：https://heco.golff.finance/vault
+## Participate in mining with G-HecoToken
 
-![image](images/HecoVault/2.png)
-
-2. 选择要参与质押的币种，目前已支持：USDT、SKM、LAVA、HT、HUSD、HBTC、ETH、HDOT、HFIL、HLTC、HPT、MDX、BCH、UNI（后续将陆续支持更多币种）
-
-![image](images/HecoVault/3.png)
-
-3. 存入前先对币种进行钱包授权
-
-![image](images/HecoVault/4.png)
-
-4. 然后输入数量，点击“存入”（也可以一键点击“全部存入”），即可开启Golff Vault挖矿，获得当前市场上的最佳收益
-
-![image](images/HecoVault/5.png)
-
-5. 存入成功后，链上钱包中会收到对应数量的G-HecoToken，可以在Heco浏览器上查看G-HecoToken余额，或者在钱包中添加对应币种合约地址查看，每一个G-HecoToken代表了您在该Vault池中可领取的资金份额
-
-6. 输入数量点击右侧“提取”或点击“全部提取”，即可领取对应G-HecoToken在该Vault池中可兑换的Token数量
-
-![image](images/HecoVault/6.png)
-
-## 使用G-HecoToken参与挖矿
-
-1. 打开Farm界面，可直接通过地址：https://heco.golff.finance/farm 进入，或在机枪池参与页进入
+1. Open the Farm interface, which can be accessed directly at https://heco.golff.finance/farm, or on the Pool participation page
 
 ![image](images/HecoVault/7.png)
 
-2. 选择对应的矿池并点击进入，将参与机枪池所获得的G-HecoToken存入
+2. Select the corresponding pool and click it, then deposit the G-HecoTokens obtained by participating in the Vault
 
-![image](images/HecoVault/8.png)
+3. Enter the number of G-HecoTokens deposited and click on Deposit.
 
-3. 输入存入的G-HecoToken数量，并点击存入即可
+?> 注意：Note: After G-HecoToken is deposited into the Farm pool, the available balance in the Farm pool page will be displayed as 0. If you need to retrieve the principal, you need to retrieve the G-HecoToken in the Farm pool first before you can see the corresponding principal and earnings.
 
-![image](images/HecoVault/9.png)
+## Revenue Distribution
 
-?> 注意：G-HecoToken存入Farm池后，此时在机枪池页面的可用余额会显示为0，若需取回本金，需先将Farm池中的G-HecoToken取回方可看到对应的本金及收益。
+The proceeds of various cryptocurrencies generated in the Heco Golff Vault pool are automatically put into the Vault pool, of which 91% of the proceeds are allocated to the fund contributors and the remaining 9% is used to repurchase GOF in the secondary market, of which 4% is for the community developer fund, 4% is destroyed, 1% is for the risk reserve, and the harvest contract call fees are borne by the developer fund. The risk reserve is used to cover losses incurred by Vault investors due to unforeseen risks. Secondary market repurchases will be made in the DEX, and the DEX where the main repurchase operation will be conducted will be announced before the repurchase.
 
-## 收益分配
-
-Heco Golff Vault池子中产生的各种加密货币的收益会自动放入Vault资金池，其中91%收益分配给资金投入者，剩余9%用于在二级市场回购GOF，其中4%为社区开发者基金，4%销毁，1%为风险储备金，harvest合约调用手续费由开发者基金承担。风险储备金用于弥补因不可预见的风险而给Vault投资人带来的亏损。二级市场的回购会在DEX中进行，在回购前会公布主要进行回购操作的DEX。
-
-收益的产生和分配全过程通过智能合约在链上实现，完全公开透明，接受全社区的监督。未来可以通过社区的投票治理去更改收益分配中的主要参数。
+The whole process of revenue generation and distribution is realized on the chain through smart contracts, which are completely open and transparent and subject to community-wide oversight. In the future, the main parameters of the revenue distribution can be changed through the community's voting governance.
