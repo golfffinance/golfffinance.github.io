@@ -19,6 +19,9 @@
 	* [关于Golff Farm矿池](zh-cn/aboutFarm)
 	* [GOF流动性挖矿教程](zh-cn/GOFFarm)
 
+* Golff Bridge跨链桥
+	* [跨链桥使用手册](zh-cn/GolffBridge)
+
 * Golff DAO治理
 	* [社区治理提案流程](zh-cn/Vote)
 	* [DAO治理框架](zh-cn/GDAO)

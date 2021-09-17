@@ -16,6 +16,9 @@
 * Golff Farm
 	* [About Golff Farm](aboutFarm)
 
+* Golff Bridge
+	* [Bridge Tutorial](GolffBridge)
+
 * Golff DAO
 	* [Community Governance](Vote)
 	* [DAO Framework](GDAO)
