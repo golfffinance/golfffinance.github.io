@@ -1,6 +1,6 @@
 温馨提示：原 GOF Farm 池升级为Course VIP俱乐部
 
-打开Golff官网（https://golff.co/），将钱包主网切换到BSC链或 Heco链（Course暂不支持ETH链），左侧栏点击进入“Golff球场”。Golff Course 球场包括 VIP Club（俱乐部） 和 Carnival（嘉年华）两个子版块。
+打开Golff官网golff.co，将钱包主网切换到BSC链或 Heco链（Course暂不支持ETH链），左侧栏点击进入“Golff球场”。Golff Course 球场包括 VIP Club（俱乐部） 和 Carnival（嘉年华）两个子版块。
 
 **VIP 俱乐部操作指南：**
 
