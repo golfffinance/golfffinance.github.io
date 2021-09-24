@@ -19,6 +19,9 @@
 * Golff Bridge
 	* [Bridge Tutorial](GolffBridge)
 
+* Golff Course
+	* [Course Operation Tutorial](Course3)
+
 * Golff DAO
 	* [Community Governance](Vote)
 	* [DAO Framework](GDAO)
