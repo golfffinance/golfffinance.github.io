@@ -31,3 +31,4 @@
 	* [BSC Tutorial](BSC)	
 
 * FAQ
+* [Withdraw money from contract](contract)	
