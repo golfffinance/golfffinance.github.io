@@ -22,7 +22,9 @@ Rarity attribute **SSR**: Super, super rare (1)
 
 <img src="https://docs.golff.com/golfffinance.github.io/images/PetNFT/2.gif" alt="image" style="zoom:50%;"/>
 
+
 <img src="https://docs.golff.com/golfffinance.github.io/images/PetNFT/3.gif" alt="image" style="zoom:50%;" />
+
 
 <img src="https://docs.golff.com/golfffinance.github.io/images/PetNFT/4.gif" alt="image" style="zoom:50%;" />
 
