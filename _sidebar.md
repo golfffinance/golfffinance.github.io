@@ -21,7 +21,8 @@
 
 * Golff Course
 	* [Course Operation Tutorial](Course3)
-	* [Golff first anniversary NFT introduction](PetNFT1)
+	* [Golff Pet NFT introduction](PetNFT1)
+	* [Pet-NFT Collection/Use Tutorial](NFTuse)
 
 * Golff DAO
 	* [Community Governance](Vote)
