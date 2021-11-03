@@ -32,6 +32,14 @@ Then click "Lend" on the far right, and deposit a certain amount of G-USDT into 
 
 ![image](https://docs.golff.com/golfffinance.github.io/images/GTokenLend/3.png)
 
+
+
+<font color='red'>Please on the **Lend My Assets** to withdraw and GOF mining proceeds</font>
+
+![image](https://docs.golff.com/images/GTokenLend/6.png)
+
+![image](https://docs.golff.com/golfffinance.github.io/images/GTokenLend/7.png)
+
 Or you can go directly to the Lend-Market page (https://golff.finance/#/lend), click on "G-Token" at the top, find the G-USDT coin and click on "Deposit " and deposit it.
 
 ![image](https://docs.golff.com/golfffinance.github.io/images/GTokenLend/4.png)
@@ -40,8 +48,12 @@ Once you have successfully deposited a certain number of G-Tokens into Lend, you
 
 ![image](https://docs.golff.com/golfffinance.github.io/images/GTokenLend/5.png)
 
-**Caution：**
+**<font color='red'> *Caution：*</font>**
 
-- **G-Token currently only supports mortgage deposit, not lending.**
-- **Currently, only 10% of the deposited amount is supported as the lending amount.**
+- <font color='red'>**G-Token currently only supports mortgage deposit, not lending.**</font>
+- <font color='red'> **Currently, only 10% of the deposited amount is supported as the lending amount.**</font>
+
+
+
+
 
