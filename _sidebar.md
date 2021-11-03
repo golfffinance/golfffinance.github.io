@@ -12,6 +12,7 @@
 
 * Golff Lend
 	* [Lend Tutorial](HecoLend)
+	* [G-Token Mortgage Lending User Manual](GTokenLend)
 
 * Golff Farm
 	* [About Golff Farm](aboutFarm)
