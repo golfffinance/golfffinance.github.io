@@ -2,7 +2,7 @@
 
 
 
-G-Token is the equity voucher Token of Golff Vault. Users deposit G-Token into Lend and use it as collateral for borrowing, and the borrowed funds can be re-deposited into the Vault or used in other ways to obtain additional revenue. At the same time all G- Token collateral can get additional GOF mining rewards, the original G-Token Fram rewards will all be transferred to the borrowing collateral rewards.
+G-Token is the equity voucher Token of Golff Vault. Users deposit G-Token into Lend and use it as collateral for borrowing, and the borrowed funds can be re-deposited into the Vault or used in other ways to obtain additional revenue. At the same time all G- Token collateral can get additional GOF mining rewards, the original G-Token Farm rewards will all be transferred to the borrowing collateral rewards.
 
 
 
