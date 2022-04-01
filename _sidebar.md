@@ -27,7 +27,7 @@
 
 * Golff DAO
 	* [Community Governance](Vote)
-	* [DAO Framework](GDAO)
+	* [Governance Framework](golffdao)
 
 * Public Chain Operation Manual
 	* [Heco Tutorial](Heco)
