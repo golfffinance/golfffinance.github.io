@@ -26,7 +26,6 @@
 	* [Pet-NFT Collection/Use Tutorial](NFTuse)
 
 * Golff DAO
-	* [Community Governance](Vote)
 	* [Governance Framework](golffdao)
 
 * Public Chain Operation Manual
