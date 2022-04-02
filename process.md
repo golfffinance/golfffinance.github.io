@@ -1,4 +1,4 @@
-## ommunity Governance Proposal Process
+## Community Governance Proposal Process
 
 A complete Golff community governance proposal requires a 4-step process.
 
