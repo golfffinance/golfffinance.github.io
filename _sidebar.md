@@ -26,6 +26,7 @@
 	* [Pet-NFT Collection/Use Tutorial](NFTuse)
 
 * Golff DAO
+
         * [Governance Proposal Process](process)
 	* [Governance Framework](golffdao)
 
