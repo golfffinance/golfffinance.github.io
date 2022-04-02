@@ -27,7 +27,7 @@
 
 * Golff DAO
 
-        * [Governance Proposal Process](process)
+        * [Community Governance Proposal Process](process)
 	* [Governance Framework](golffdao)
 
 * Public Chain Operation Manual
