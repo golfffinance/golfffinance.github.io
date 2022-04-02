@@ -27,8 +27,9 @@
 
 * Golff DAO
 
-        * [Governance Framework](process)
+   
 	* [Governance Framework](golffdao)
+	* [Community Governance Proposal Process](process)
 
 * Public Chain Operation Manual
 	* [Heco Tutorial](Heco)
