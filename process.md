@@ -51,7 +51,7 @@ Implementation method.
 
 1. The proposals voted by the community will be automatically entered into the Job List according to the task type (development, strategy, product, community operation, content output, brand cooperation, etc.)\2. All community developers can receive tasks by pledging 10,000 GOF, and tasks can be received and executed by multiple developers
 
-3. After completing the task, developers will submit the code or detailed operation execution plan to the platform, and GDAO members with 500k+ can vote on the code submitted by different developers
+3. After completing the task, developers will submit the code or detailed operation execution plan to the platform, and GDAO members with 50k+ can vote on the code submitted by different developers
 
 4. After the task is approved, the GOF pledged by the proposer and the developer will be returned, and the GOF pledged by the proposer will be rewarded at 5%, and the developer will be rewarded according to the development difficulty. If the task is not approved, the GOF pledged by the proposer and the developer will be returned.
 
