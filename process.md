@@ -49,7 +49,7 @@ The purpose of this step: the proposals voted by the community need to be execut
 
 Implementation method.
 
-1. The proposals voted by the community will be automatically entered into the Job List according to the task type (development, strategy, product, community operation, content output, brand cooperation, etc.)\2. All community developers can receive tasks by pledging 10,000 GOF, and tasks can be received and executed by multiple developers
+1. The proposals voted by the community will be automatically entered into the Blackboard according to the task type (development, strategy, product, community operation, content output, brand cooperation, etc.)\2. All community developers can receive tasks by pledging 10,000 GOF, and tasks can be received and executed by multiple developers
 
 3. After completing the task, developers will submit the code or detailed operation execution plan to the platform, and GDAO members with 50k+ can vote on the code submitted by different developers
 
