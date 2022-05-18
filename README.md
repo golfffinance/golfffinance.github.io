@@ -38,6 +38,9 @@ Golff is postioned as a one-stop services encrypted bank, committing to creating
 ```
 0xE83413f3c41243c4f0CcdB50e951E4af13D8227C
 ```
+**GDAO(BEP20-BS):**
+```
+0xc2B0fdA81F3a01bFa1D968a7587D826773E389cF
 
 ## Official Community
 - Telegram：https://t.me/GolffProtocol
