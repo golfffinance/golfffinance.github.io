@@ -30,6 +30,11 @@ Golff is postioned as a one-stop services encrypted bank, committing to creating
 ```
 0x2bcF9c1861FaE2d5a7D2b3242b71e2a8d461F61e
 ```
+**GOF(REI):**
+```
+0x8A9e1827F65f44A7d252C04CF2d875287a7f4012
+```
+
 **GDAO(ERC20):**
 ```
 0x22a259f8a78CF2d38Dd5fF92aE9d1aE7BFFF7419
@@ -42,6 +47,8 @@ Golff is postioned as a one-stop services encrypted bank, committing to creating
 ```
 0xc2B0fdA81F3a01bFa1D968a7587D826773E389cF
 ```
+
+
 
 
 
